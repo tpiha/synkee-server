@@ -4,4 +4,8 @@ Simple web server with preconfigured FTP, nginx and PHP. It provides a simple we
 
 ## todo
 
- * FTP server configuration
+ * FTP server (pure-ftpd) configuration
+ * nginx coniguration
+ * PostgreSQL configuration
+ * start script
+ * supervisor configuration
