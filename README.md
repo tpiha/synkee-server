@@ -6,8 +6,5 @@ It's distributed in a form of a Docker image, but you can also build it yourself
 
 ## todo
 
- * FTP server (pure-ftpd) configuration
- * nginx coniguration
- * PostgreSQL configuration
- * start script
- * supervisor configuration
+ * PHP configuration
+ * admin interface
