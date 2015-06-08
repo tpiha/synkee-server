@@ -8,3 +8,7 @@ It's distributed in a form of a Docker image, but you can also build it yourself
 
  * PHP configuration
  * admin interface
+    * login, logout, session stuff
+    * user management
+    * website management
+ * add phpmyadmin
